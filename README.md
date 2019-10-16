@@ -5,6 +5,10 @@ x軸為ball的x座標，y軸為ball的y座標，z為該求出現在此座標的�
 
 ![image](https://github.com/wasteee/-Machine-Learning-1081-0316-Project-management-HW3/blob/master/graph/kmeans.png)
 
+對映到遊戲畫面
+
+![image](https://github.com/wasteee/-Machine-Learning-1081-0316-Project-management-HW3/blob/master/graph/Inkedkmeans_LI.jpg)
+
 上圖為每個xy軸皆取一次z，因此較為密集且不易觀看，可將xy改成每5格取一次z
 
 ![image](https://github.com/wasteee/-Machine-Learning-1081-0316-Project-management-HW3/blob/master/graph/kmeans_per5.png)
